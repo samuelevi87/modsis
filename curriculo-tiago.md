@@ -36,4 +36,4 @@
   - Live Paulo kogos
 
 ## GIF Motivacional 
-![Motivational GIF](https://https://giphy.com/gifs/smoke-smoking-chibi-l0ExdMHUDKteztyfe)
+![Motivational GIF](https://giphy.com/gifs/smoke-smoking-chibi-l0ExdMHUDKteztyfe")
